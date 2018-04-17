@@ -56,8 +56,10 @@ namespace TestBuild
 
         private static void displayEmployeeDetails(IFactory employee)
         {
-            Console.WriteLine("Employee Name : {0} \n Employee Role : {1} \n Manager : {2} \n Organization : {3}  \n teamname : {4} \n salary : {5} \n Type : {6} ",
+
+            Console.WriteLine("Employee Name : {0}\n Employee Role : {1} \n Manager : {2} \n Organization : {3}  \n teamname : {4} \n salary : {5} \n Type : {6} ",
                 employee.empName, employee.empRole, employee.managerName, employee.organizationName, employee.teamName, employee.salary,employee.employeeCategary);
+            Console.WriteLine("------------------------------------------Press any Key to continue------------------------------------------------");
             Console.ReadLine();
         }
     }

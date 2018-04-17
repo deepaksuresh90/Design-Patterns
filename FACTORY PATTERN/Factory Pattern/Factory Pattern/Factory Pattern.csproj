@@ -46,6 +46,7 @@
     <Compile Include="ConcreateEmployee\parttimeEmployees.cs" />
     <Compile Include="ConcreateEmployee\seasonalInterns.cs" />
     <Compile Include="Creator\abstractEmployee.cs" />
+    <Compile Include="employeeBuild.cs" />
     <Compile Include="IFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -11,21 +11,8 @@ namespace Factory_Pattern.ConcreateCreator
     {
        public override IFactory createEmployee(EmployeeType type)
         {
-            IFactory Employee=null;
-            switch (type)
-            {
-                case EmployeeType.FULLTIMEEMPLOYEE:
-                    Employee = new fulltimeEmployee();
-
-                    break;
-                case EmployeeType.PARTTIMEEMPLOYEE:
-                    Employee  = new ConcreateEmployee.parttimeEmployees();
-                    break;
-
-                case EmployeeType.INTERNS:
-                    Employee = new ConcreateEmployee.seasonalInterns();
-                    break;
-            }
+            new employeeBuild(type);
+            IFactory Employee= employeeBuild.Employee;
             return Employee;
         }
     }
