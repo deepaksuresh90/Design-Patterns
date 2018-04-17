@@ -45,9 +45,9 @@ namespace TestBuild
         {
             //employee.empName = "Deepak S";
             employee.empRole = "Sr Software Engineer";
-            employee.managerName = "Shetty Akarsh";
-            employee.organizationName = "Cerner corporation";
-            employee.teamName = "inpatient";
+            employee.managerName = "Shetty";
+            employee.organizationName = "NFC corporation";
+            employee.teamName = "cloud apps";
             employee.salary = "$1000";
 
            return employee.getEmployee();
