@@ -1,0 +1,6 @@
+C:\My Tutorials\C#\DESIGN PATTERNS\FACTORY PATTERN\Factory Pattern\Factory Pattern\obj\Debug\Factory Pattern.csprojResolveAssemblyReference.cache
+C:\My Tutorials\C#\DESIGN PATTERNS\FACTORY PATTERN\Factory Pattern\Factory Pattern\obj\Debug\Factory Pattern.csproj.CoreCompileInputs.cache
+C:\My Tutorials\C#\DESIGN PATTERNS\FACTORY PATTERN\Factory Pattern\Factory Pattern\bin\Debug\Factory Pattern.dll
+C:\My Tutorials\C#\DESIGN PATTERNS\FACTORY PATTERN\Factory Pattern\Factory Pattern\bin\Debug\Factory Pattern.pdb
+C:\My Tutorials\C#\DESIGN PATTERNS\FACTORY PATTERN\Factory Pattern\Factory Pattern\obj\Debug\Factory Pattern.dll
+C:\My Tutorials\C#\DESIGN PATTERNS\FACTORY PATTERN\Factory Pattern\Factory Pattern\obj\Debug\Factory Pattern.pdb

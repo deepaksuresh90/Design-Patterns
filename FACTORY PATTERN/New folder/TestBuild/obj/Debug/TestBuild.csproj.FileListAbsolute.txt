@@ -1,0 +1,9 @@
+C:\My Tutorials\C#\DESIGN PATTERNS\FACTORY PATTERN\New folder\TestBuild\bin\Debug\TestBuild.exe.config
+C:\My Tutorials\C#\DESIGN PATTERNS\FACTORY PATTERN\New folder\TestBuild\bin\Debug\TestBuild.exe
+C:\My Tutorials\C#\DESIGN PATTERNS\FACTORY PATTERN\New folder\TestBuild\bin\Debug\TestBuild.pdb
+C:\My Tutorials\C#\DESIGN PATTERNS\FACTORY PATTERN\New folder\TestBuild\bin\Debug\Factory Pattern.dll
+C:\My Tutorials\C#\DESIGN PATTERNS\FACTORY PATTERN\New folder\TestBuild\bin\Debug\Factory Pattern.pdb
+C:\My Tutorials\C#\DESIGN PATTERNS\FACTORY PATTERN\New folder\TestBuild\obj\Debug\TestBuild.csprojResolveAssemblyReference.cache
+C:\My Tutorials\C#\DESIGN PATTERNS\FACTORY PATTERN\New folder\TestBuild\obj\Debug\TestBuild.csproj.CoreCompileInputs.cache
+C:\My Tutorials\C#\DESIGN PATTERNS\FACTORY PATTERN\New folder\TestBuild\obj\Debug\TestBuild.exe
+C:\My Tutorials\C#\DESIGN PATTERNS\FACTORY PATTERN\New folder\TestBuild\obj\Debug\TestBuild.pdb
