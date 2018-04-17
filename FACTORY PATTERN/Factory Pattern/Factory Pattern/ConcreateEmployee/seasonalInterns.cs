@@ -36,10 +36,10 @@ namespace Factory_Pattern.ConcreateEmployee
         public IFactory getEmployee()
         {
             this.salary = "1000$";
-            this.organizationName = "Cerner helathcare";
+            this.organizationName = "SAP helathcare";
             this.employeeCategary = "Intern";
             this.teamName = "Dev Accademy";
-            this.managerName = "Kaushal Tiwari";
+            this.managerName = "Kaushal";
             this.empRole = "Seasonal Intern";
             return this;
         }
